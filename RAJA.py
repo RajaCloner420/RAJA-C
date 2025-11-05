@@ -1,1 +1,1 @@
-RAJA-C
+from RAJA import approval
