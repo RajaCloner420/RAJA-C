@@ -1,2 +1,1 @@
-from RAJA import approval
-approval()
+RAJA-C
